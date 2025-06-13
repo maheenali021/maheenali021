@@ -29,7 +29,5 @@ AI Engineer in Training | Autonomous Agents & Multi-Agent Systems | Python Devel
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=maheenali021&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

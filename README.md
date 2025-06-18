@@ -1,9 +1,9 @@
 # 💫 About Me:
 AI Engineer in Training | Autonomous Agents & Multi-Agent Systems | Python Developer<br><br>Hi, I'm Maheen!<br>I’m passionate about the future of intelligent, self-directed AI systems. As a dedicated student in GIAIC's Agentic AI program, I'm building expertise across the entire development spectrum - from core theoretical concepts to applied implementations. My current focus is on acquiring the skills needed to create adaptive, self-improving AI systems that are both cutting-edge and deployment-ready<br><br>🤖 Developing Expertise in Autonomous AI Agents<br>⚡ Passionate about multi-agent systems, LLM orchestration, and adaptive AI workflows<br><br>🤖 AI Agent Frameworks:<br>• OpenAI Assistants API & Agents SDK<br>• Agent-to-Agent (A2A) communication protocols<br>• Multi-Agent Coordination Protocols (MCP)<br>• Vector Memory Systems & Knowledge Graphs<br><br>Cloud-Native Infrastructure:<br><br>🛠️ Development Environment:<br>• Rancher Desktop (Kubernetes sandbox)<br>• Dapr (Distributed Application Runtime)<br>• Kubernetes (Container orchestration)<br><br><br>📫 Let's Connect:<br>Excited to collaborate on agentic AI research, open-source contributions, or innovative automation concepts!
-
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c2dTU2NGJidGo5ZXB0d2FtbDZ3MTFxZHFiMDI3Z3Ztbm80dGRkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IV09naiKhckfXzT8RF/giphy.gif
+![Code Coding Sticker by BYJU'S FutureSchool](https://github.com/user-attachments/assets/12e79f6b-b100-4dc7-b6a8-1653bdca8389)
 
 ## 🌐 Socials:
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maheen-ali-419805295/?trk=opento_sprofile_goalscard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheenalishah18@gmail.com) 
 
 # 💻 Tech Stack:

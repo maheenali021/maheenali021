@@ -26,7 +26,4 @@ AI Engineer in Training | Autonomous Agents & Multi-Agent Systems | Python Devel
 ---
 [![](https://visitcount.itsvg.in/api?id=maheenali021&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![Education Coding Sticker by Nuevo Foundation](https://github.com/user-attachments/assets/8ba94663-8d32-40b2-8890-d1bc36181ed4)
-![Code Coding Sticker by BYJU'S FutureSchool](https://github.com/user-attachments/assets/76b4b2f0-989b-4732-98ee-35d3345f2554)
-
 

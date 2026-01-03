@@ -3,7 +3,7 @@ AI Engineer in Training | Autonomous Agents & Multi-Agent Systems | Python Devel
 ![Cs Nuvi Sticker by Nuevo Foundation](https://github.com/user-attachments/assets/d59b8db9-9f91-4395-8a27-95f4af24466a)
 
 ## 📄✨💼 Portfolio:
-![Portfolio ](https://portfolio-22k2-f20nsx6av-maheenali021s-projects.vercel.app/)
+https://portfolio-22k2.vercel.app/
 
 
 
